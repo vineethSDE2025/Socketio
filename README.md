@@ -1,2 +1,2 @@
-# Socketio
-A room for group chats or one on one chat
+# SocketIo_exp
+Testing a socket io applicatioin and understanding pretty basic 
