@@ -1,2 +1,2 @@
 # SocketIo_exp
-Testing a socket io applicatioin and understanding pretty basic 
+Testing a socket io application and understanding pretty basic 
